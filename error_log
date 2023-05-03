@@ -1,0 +1,1 @@
+[27-Apr-2023 16:56:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sahrasinav'@'localhost' (using password: YES) in /home/nei33bcom/public_html/sahrasinav/kayit.php on line 7
