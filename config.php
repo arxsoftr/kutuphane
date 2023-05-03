@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost"; // Sunucu adı girin
 $username = "kutuphanekullanici"; // Kullanıcı adı girin
-$password = "1)lMV!B7apsGzz(c"; // Kullanıcı şifresi girin
-$dbname = "kutuphane_db"; // Veritabanı adı
+$password = "sifre"; // Kullanıcı şifresi girin
+$dbname = "dbname"; // Veritabanı adı
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
